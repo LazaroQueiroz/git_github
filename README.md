@@ -1,2 +1,3 @@
-# git_github
-Small introdutory course. Git and GitHub.
+#Primeiro repositório do curdo de Git & Github
+
+##Small introdutory course. Git and GitHub.
